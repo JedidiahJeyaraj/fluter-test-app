@@ -1,4 +1,4 @@
-# test_windows
+# fluter-test-app
 
 A new Flutter project.
 
